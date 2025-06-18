@@ -1,5 +1,8 @@
 name: Update Spotify Top Tracks
 
+permissions:
+  contents: write
+
 on:
   schedule:
     # Runs every day at 02:00 UTC
