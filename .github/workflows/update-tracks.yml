@@ -2,9 +2,9 @@ name: Update Spotify Top Tracks
 
 on:
   schedule:
-    # Ejecuta todos los días a las 02:00 UTC
+    # Runs every day at 02:00 UTC
     - cron: '0 2 * * *'
-  workflow_dispatch:    # Permite dispararlo manualmente
+  workflow_dispatch:  # Allow manual trigger
 
 jobs:
   update:
@@ -13,24 +13,25 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          persist-credentials: true
 
-      - name: Set up Node.js 18
+      - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18'
+          node-version: '16'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
 
       - name: Fetch Spotify playlists
         env:
-          CLIENT_ID:     ${{ secrets.SPOTIFY_CLIENT_ID }}
+          CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
         run: node fetch_spotify_tracks.js
 
       - name: Commit and push updated JSON
         run: |
-          git config user.name  "github-actions[bot]"
+          git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add spotify_top_tracks.json
           git diff --quiet || git commit -m "chore: daily update of top tracks"
