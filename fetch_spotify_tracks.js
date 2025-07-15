@@ -13,6 +13,7 @@ const PLAYLISTS = [
   { name: "Rolling Stone's Greatest Hip-Hop Songs of All Time", id: "1oHOxzRga11XX4XEmuje3z" },
   { name: "TikTok Viral Hits 2025", id: "6mKEyAOZ82zQm4ysV3LvqQ" },
   { name: "TIK TOK 2025 🔥 VIRAL TIKTOK: Canciones Virales de TikTok", id: "3BOQwadZjKpHajawvEO9T8" }
+  { name: "TOP QC References", id: "54SLVNh97UdNDtfGLr9OIM" }
 
 ];
 
