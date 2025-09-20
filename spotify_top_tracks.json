@@ -1,5 +1,33 @@
 [
   {
+    "track": "6 Months Later",
+    "artist": "Megan Moroney",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom"
+  },
+  {
+    "track": "Miami (feat. Lil Wayne & Rick Ross)",
+    "artist": "Morgan Wallen, Lil Wayne, Rick Ross",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/4vsarEetbprJa5Z2ZJ4RL7"
+  },
+  {
+    "track": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+    "artist": "TWICE",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
+  },
+  {
+    "track": "Back in the Saddle",
+    "artist": "Luke Combs",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
+  },
+  {
     "track": "Golden",
     "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
@@ -14,11 +42,11 @@
     "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
   },
   {
-    "track": "What I Want (feat. Tate McRae)",
-    "artist": "Morgan Wallen, Tate McRae",
+    "track": "Manchild",
+    "artist": "Sabrina Carpenter",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/48NthgcgfoRrWT8LtgW28A"
+    "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
   },
   {
     "track": "Your Idol",
@@ -35,32 +63,18 @@
     "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
   },
   {
-    "track": "Love Me Not",
-    "artist": "Ravyn Lenae",
+    "track": "Tears",
+    "artist": "Sabrina Carpenter",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+    "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
   },
   {
-    "track": "Lose Control",
-    "artist": "Teddy Swims",
+    "track": "What I Want (feat. Tate McRae)",
+    "artist": "Morgan Wallen, Tate McRae",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
-  },
-  {
-    "track": "DAISIES",
-    "artist": "Justin Bieber",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
-  },
-  {
-    "track": "Just In Case",
-    "artist": "Morgan Wallen",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/02Ya2Q08bBKFqUJvjmyRXK"
+    "url": "https://open.spotify.com/track/48NthgcgfoRrWT8LtgW28A"
   },
   {
     "track": "How It’s Done",
@@ -70,60 +84,32 @@
     "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
   },
   {
+    "track": "Love Me Not",
+    "artist": "Ravyn Lenae",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+  },
+  {
+    "track": "DAISIES",
+    "artist": "Justin Bieber",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+  },
+  {
+    "track": "Lose Control",
+    "artist": "Teddy Swims",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+  },
+  {
     "track": "Die With A Smile",
     "artist": "Lady Gaga, Bruno Mars",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
     "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
-  },
-  {
-    "track": "Good News",
-    "artist": "Shaboozey",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
-  },
-  {
-    "track": "A Bar Song (Tipsy)",
-    "artist": "Shaboozey",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
-  },
-  {
-    "track": "Manchild",
-    "artist": "Sabrina Carpenter",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
-  },
-  {
-    "track": "MUTT",
-    "artist": "Leon Thomas",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
-  },
-  {
-    "track": "I'm The Problem",
-    "artist": "Morgan Wallen",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
-  },
-  {
-    "track": "Beautiful Things",
-    "artist": "Benson Boone",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
-  },
-  {
-    "track": "Pink Pony Club",
-    "artist": "Chappell Roan",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
   },
   {
     "track": "I Got Better",
@@ -133,6 +119,13 @@
     "url": "https://open.spotify.com/track/4GBNnoGf1FgsPtsgghZ381"
   },
   {
+    "track": "MUTT",
+    "artist": "Leon Thomas",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
+  },
+  {
     "track": "What It Sounds Like",
     "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
@@ -140,46 +133,32 @@
     "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
   },
   {
-    "track": "luther (with sza)",
-    "artist": "Kendrick Lamar, SZA",
+    "track": "A Bar Song (Tipsy)",
+    "artist": "Shaboozey",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
+    "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
   },
   {
-    "track": "BIRDS OF A FEATHER",
-    "artist": "Billie Eilish",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-  },
-  {
-    "track": "Free",
-    "artist": "Rumi, Jinu, EJAE, Andrew Choi, KPop Demon Hunters Cast",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
-  },
-  {
-    "track": "I Had Some Help (Feat. Morgan Wallen)",
-    "artist": "Post Malone, Morgan Wallen",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
-  },
-  {
-    "track": "Takedown",
-    "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
-  },
-  {
-    "track": "Sorry I'm Here For Someone Else",
+    "track": "Beautiful Things",
     "artist": "Benson Boone",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
+    "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+  },
+  {
+    "track": "Just In Case",
+    "artist": "Morgan Wallen",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/02Ya2Q08bBKFqUJvjmyRXK"
+  },
+  {
+    "track": "Good News",
+    "artist": "Shaboozey",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
   },
   {
     "track": "undressed",
@@ -189,25 +168,32 @@
     "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
   },
   {
-    "track": "The Subway",
+    "track": "Takedown",
+    "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
+  },
+  {
+    "track": "I'm The Problem",
+    "artist": "Morgan Wallen",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
+  },
+  {
+    "track": "Pink Pony Club",
     "artist": "Chappell Roan",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+    "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
   },
   {
-    "track": "YUKON",
-    "artist": "Justin Bieber",
+    "track": "Free",
+    "artist": "Rumi, Jinu, EJAE, Andrew Choi, KPop Demon Hunters Cast",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
-  },
-  {
-    "track": "Mystical Magical",
-    "artist": "Benson Boone",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
+    "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
   },
   {
     "track": "back to friends",
@@ -217,11 +203,46 @@
     "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
   },
   {
-    "track": "It Depends (feat. Bryson Tiller)",
-    "artist": "Chris Brown, Bryson Tiller",
+    "track": "luther (with sza)",
+    "artist": "Kendrick Lamar, SZA",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH"
+    "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
+  },
+  {
+    "track": "SOMEBODY LOVES ME PT. 2",
+    "artist": "PARTYNEXTDOOR, Drake, Cash Cobain",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/2aTf0R0TQCJJKcb0ipszD2"
+  },
+  {
+    "track": "Nobody’s Son",
+    "artist": "Sabrina Carpenter",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/4SRShYMtFIGgnOU7iBicMH"
+  },
+  {
+    "track": "Mystical Magical",
+    "artist": "Benson Boone",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
+  },
+  {
+    "track": "When Did You Get Hot?",
+    "artist": "Sabrina Carpenter",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl"
+  },
+  {
+    "track": "Happen To Me",
+    "artist": "Russell Dickerson",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/64KV9vjChfN2w9vA4j7A2K"
   },
   {
     "track": "All The Way (feat. Bailey Zimmerman)",
@@ -231,11 +252,11 @@
     "url": "https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP"
   },
   {
-    "track": "Backup Plan (feat. Luke Combs)",
-    "artist": "Bailey Zimmerman, Luke Combs",
+    "track": "YUKON",
+    "artist": "Justin Bieber",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
+    "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
   },
   {
     "track": "Folded",
@@ -252,46 +273,53 @@
     "url": "https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc"
   },
   {
-    "track": "Blue Strips",
-    "artist": "Jessie Murph",
+    "track": "Sorry I'm Here For Someone Else",
+    "artist": "Benson Boone",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y"
+    "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
   },
   {
-    "track": "30 For 30 (with Kendrick Lamar)",
-    "artist": "SZA, Kendrick Lamar",
+    "track": "Man I Need",
+    "artist": "Olivia Dean",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
+    "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
   },
   {
-    "track": "After All The Bars Are Closed",
-    "artist": "Thomas Rhett",
+    "track": "It Depends (feat. Bryson Tiller)",
+    "artist": "Chris Brown, Bryson Tiller",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
+    "url": "https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH"
   },
   {
-    "track": "Happen To Me",
-    "artist": "Russell Dickerson",
+    "track": "House Tour",
+    "artist": "Sabrina Carpenter",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/64KV9vjChfN2w9vA4j7A2K"
+    "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
   },
   {
-    "track": "Worst Way",
-    "artist": "Riley Green",
+    "track": "The Dead Dance",
+    "artist": "Lady Gaga",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/4u2pk0zATUkEeMtuuMtu46"
+    "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
   },
   {
-    "track": "APT.",
-    "artist": "ROSÉ, Bruno Mars",
+    "track": "Go Go Juice",
+    "artist": "Sabrina Carpenter",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    "url": "https://open.spotify.com/track/1qyw5wSUkEvH8DtaCdx7Lg"
+  },
+  {
+    "track": "My Man on Willpower",
+    "artist": "Sabrina Carpenter",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/3EMfeKtNK4q4k3sVjwg5Yy"
   },
   {
     "track": "Bar None",
@@ -301,32 +329,18 @@
     "url": "https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP"
   },
   {
-    "track": "Love Somebody",
-    "artist": "Morgan Wallen",
+    "track": "Sugar Talking",
+    "artist": "Sabrina Carpenter",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
+    "url": "https://open.spotify.com/track/5B3GZOZYXNzWpUXQC42hxZ"
   },
   {
-    "track": "What Did I Miss?",
-    "artist": "Drake",
+    "track": "Worst Way",
+    "artist": "Riley Green",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
-  },
-  {
-    "track": "NOKIA",
-    "artist": "Drake",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
-  },
-  {
-    "track": "Back in the Saddle",
-    "artist": "Luke Combs",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
+    "url": "https://open.spotify.com/track/4u2pk0zATUkEeMtuuMtu46"
   },
   {
     "track": "Bottle Rockets (feat. Hootie & The Blowfish)",
@@ -336,11 +350,11 @@
     "url": "https://open.spotify.com/track/5Xl87hTgoBbSnEXKNse77Q"
   },
   {
-    "track": "Sugar On My Tongue",
-    "artist": "Tyler, The Creator",
+    "track": "Goodbye",
+    "artist": "Sabrina Carpenter",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
+    "url": "https://open.spotify.com/track/4tVVmShMF2PYdLqcejrsy2"
   },
   {
     "track": "No Broke Boys",
@@ -348,6 +362,370 @@
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
     "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+  },
+  {
+    "track": "Blue Strips",
+    "artist": "Jessie Murph",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y"
+  },
+  {
+    "track": "Jealous Type",
+    "artist": "Doja Cat",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
+  },
+  {
+    "track": "Backup Plan (feat. Luke Combs)",
+    "artist": "Bailey Zimmerman, Luke Combs",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
+  },
+  {
+    "track": "After All The Bars Are Closed",
+    "artist": "Thomas Rhett",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
+  },
+  {
+    "track": "12 to 12",
+    "artist": "sombr",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
+  },
+  {
+    "track": "Back in the Saddle",
+    "artist": "Luke Combs",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
+  },
+  {
+    "track": "Never Getting Laid",
+    "artist": "Sabrina Carpenter",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/1PdUyYYw9sGU0yhLrpeHKt"
+  },
+  {
+    "track": "Sugar On My Tongue",
+    "artist": "Tyler, The Creator",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
+  },
+  {
+    "track": "Gabriela",
+    "artist": "KATSEYE",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
+  },
+  {
+    "track": "The Subway",
+    "artist": "Chappell Roan",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+  },
+  {
+    "track": "Hell At Night (feat. Ella Langley)",
+    "artist": "BigXthaPlug, Ella Langley",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/0U1nO2frLx8w2dIsfvlP1d"
+  },
+  {
+    "track": "Revolving door",
+    "artist": "Tate McRae",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC"
+  },
+  {
+    "track": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+    "artist": "TWICE",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
+  },
+  {
+    "track": "Strategy",
+    "artist": "TWICE",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/6Q3lFQgpvhA9VApFKLFZtZ"
+  },
+  {
+    "track": "House Again",
+    "artist": "Hudson Westbrook",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/16MeIVoFWTq2E0r6DwIek5"
+  },
+  {
+    "track": "Somewhere Over Laredo",
+    "artist": "Lainey Wilson",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU"
+  },
+  {
+    "track": "We Almost Broke Up Again Last Night",
+    "artist": "Sabrina Carpenter",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/6wkYQMrFfb0huLB5Qn19Iv"
+  },
+  {
+    "track": "SPEED DEMON",
+    "artist": "Justin Bieber",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/4YmS7BALpAU0h4EAF4fYuh"
+  },
+  {
+    "track": "Just Keep Watching (From F1® The Movie)",
+    "artist": "Tate McRae, F1 The Album",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
+  },
+  {
+    "track": "6 Months Later",
+    "artist": "Megan Moroney",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom"
+  },
+  {
+    "track": "wgft (feat. Burna Boy)",
+    "artist": "Gunna, Burna Boy",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe"
+  },
+  {
+    "track": "WILDFLOWER",
+    "artist": "Billie Eilish",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+  },
+  {
+    "track": "What Did I Miss?",
+    "artist": "Drake",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
+  },
+  {
+    "track": "Amen",
+    "artist": "Shaboozey, Jelly Roll",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
+  },
+  {
+    "track": "Don’t Worry I’ll Make You Worry",
+    "artist": "Sabrina Carpenter",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/21IVPfi81m6ywNgOvqTj1i"
+  },
+  {
+    "track": "Eternity",
+    "artist": "Alex Warren",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
+  },
+  {
+    "track": "Better Me For You (Brown Eyes)",
+    "artist": "Max McNown",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/4Iu73sdCNxZXZUIyClMoPZ"
+  },
+  {
+    "track": "YOUR WAY'S BETTER",
+    "artist": "Forrest Frank",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/4qrbjoNP9NZwe79Rg9IlFU"
+  },
+  {
+    "track": "Sienna",
+    "artist": "The Marías",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
+  },
+  {
+    "track": "Heart of Stone",
+    "artist": "Jelly Roll",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/1bXKpjbalq0If54LBffE0i"
+  },
+  {
+    "track": "Tiramisu",
+    "artist": "Don Toliver",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee"
+  },
+  {
+    "track": "Don’t Mind If I Do (ft. Ella Langley)",
+    "artist": "Riley Green, Ella Langley",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/6yIaRllz0lCXuISYsqyCNH"
+  },
+  {
+    "track": "Nice To Meet You",
+    "artist": "Myles Smith",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
+  },
+  {
+    "track": "Last One To Know",
+    "artist": "Gavin Adcock",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/7Eb9i3xmiLuY5MiY6AhzzL"
+  },
+  {
+    "track": "Sparks",
+    "artist": "Coldplay",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
+  },
+  {
+    "track": "Marlboro Rojo",
+    "artist": "Fuerza Regida",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/3hpm0fTeSqlhJbnqAgaLZs"
+  },
+  {
+    "track": "Is It a Crime",
+    "artist": "Mariah the Scientist, Kali Uchis",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/1jTe5liUdnRjbie1luBi6J"
+  },
+  {
+    "track": "party 4 u",
+    "artist": "Charli xcx",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE"
+  },
+  {
+    "track": "20 Cigarettes",
+    "artist": "Morgan Wallen",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/2fKPqAXWZmXcWiEVxqIuFD"
+  },
+  {
+    "track": "LOVE SONG",
+    "artist": "Justin Bieber",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ"
+  },
+  {
+    "track": "Shake It To The Max (FLY) - Remix",
+    "artist": "MOLIY, Silent Addy, Skillibeng, Shenseea",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
+  },
+  {
+    "track": "Typa",
+    "artist": "GloRilla",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1"
+  },
+  {
+    "track": "She Ready",
+    "artist": "Key Glock",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/1LzZQqP7rgemZw2JCZvo4N"
+  },
+  {
+    "track": "JUMP",
+    "artist": "BLACKPINK",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
+  },
+  {
+    "track": "Frecuencia",
+    "artist": "Los Dareyes De La Sierra",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/56bPsRfOKla3bGGmVz1uk4"
+  },
+  {
+    "track": "Good Times & Tan Lines",
+    "artist": "Zach Top",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/5ZBxXBh0h4QuwXb3tNj91d"
+  },
+  {
+    "track": "Let Down",
+    "artist": "Radiohead",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
+  },
+  {
+    "track": "Outside",
+    "artist": "Cardi B",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u"
+  },
+  {
+    "track": "I Ain't Comin' Back (feat. Post Malone)",
+    "artist": "Morgan Wallen, Post Malone",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9"
+  },
+  {
+    "track": "Miami (feat. Lil Wayne & Rick Ross)",
+    "artist": "Morgan Wallen, Lil Wayne, Rick Ross",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/4vsarEetbprJa5Z2ZJ4RL7"
+  },
+  {
+    "track": "Which One (feat. Central Cee)",
+    "artist": "Drake, Central Cee",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
+  },
+  {
+    "track": "So Far So Fake",
+    "artist": "Pierce The Veil",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI"
   },
   {
     "track": "6 Months Later",
@@ -371,333 +749,11 @@
     "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
   },
   {
-    "track": "Somewhere Over Laredo",
-    "artist": "Lainey Wilson",
+    "track": "Back in the Saddle",
+    "artist": "Luke Combs",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU"
-  },
-  {
-    "track": "20 Cigarettes",
-    "artist": "Morgan Wallen",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/2fKPqAXWZmXcWiEVxqIuFD"
-  },
-  {
-    "track": "House Again",
-    "artist": "Hudson Westbrook",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/16MeIVoFWTq2E0r6DwIek5"
-  },
-  {
-    "track": "Strategy",
-    "artist": "TWICE",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/6Q3lFQgpvhA9VApFKLFZtZ"
-  },
-  {
-    "track": "Amen",
-    "artist": "Shaboozey, Jelly Roll",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
-  },
-  {
-    "track": "WILDFLOWER",
-    "artist": "Billie Eilish",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
-  },
-  {
-    "track": "Outside",
-    "artist": "Cardi B",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u"
-  },
-  {
-    "track": "Hell At Night (feat. Ella Langley)",
-    "artist": "BigXthaPlug, Ella Langley",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/0U1nO2frLx8w2dIsfvlP1d"
-  },
-  {
-    "track": "YOUR WAY'S BETTER",
-    "artist": "Forrest Frank",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/4qrbjoNP9NZwe79Rg9IlFU"
-  },
-  {
-    "track": "Just Keep Watching (From F1® The Movie)",
-    "artist": "Tate McRae, F1 The Album",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
-  },
-  {
-    "track": "So Far So Fake",
-    "artist": "Pierce The Veil",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI"
-  },
-  {
-    "track": "Shake It To The Max (FLY) - Remix",
-    "artist": "MOLIY, Silent Addy, Skillibeng, Shenseea",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
-  },
-  {
-    "track": "Eternity",
-    "artist": "Alex Warren",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
-  },
-  {
-    "track": "I Ain't Comin' Back (feat. Post Malone)",
-    "artist": "Morgan Wallen, Post Malone",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9"
-  },
-  {
-    "track": "Better Me For You (Brown Eyes)",
-    "artist": "Max McNown",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/4Iu73sdCNxZXZUIyClMoPZ"
-  },
-  {
-    "track": "Marlboro Rojo",
-    "artist": "Fuerza Regida",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/3hpm0fTeSqlhJbnqAgaLZs"
-  },
-  {
-    "track": "Imaginary Playerz",
-    "artist": "Cardi B",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt"
-  },
-  {
-    "track": "party 4 u",
-    "artist": "Charli xcx",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE"
-  },
-  {
-    "track": "Gabriela",
-    "artist": "KATSEYE",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
-  },
-  {
-    "track": "Which One (feat. Central Cee)",
-    "artist": "Drake, Central Cee",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
-  },
-  {
-    "track": "JUMP",
-    "artist": "BLACKPINK",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
-  },
-  {
-    "track": "Superman",
-    "artist": "Morgan Wallen",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/3JlQPeTJDdxR6yYfus8trX"
-  },
-  {
-    "track": "RATHER LIE (with The Weeknd)",
-    "artist": "Playboi Carti, The Weeknd",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn"
-  },
-  {
-    "track": "Last One To Know",
-    "artist": "Gavin Adcock",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/7Eb9i3xmiLuY5MiY6AhzzL"
-  },
-  {
-    "track": "Don’t Mind If I Do (ft. Ella Langley)",
-    "artist": "Riley Green, Ella Langley",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/6yIaRllz0lCXuISYsqyCNH"
-  },
-  {
-    "track": "Revolving door",
-    "artist": "Tate McRae",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC"
-  },
-  {
-    "track": "Nice To Meet You",
-    "artist": "Myles Smith",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
-  },
-  {
-    "track": "Sparks",
-    "artist": "Coldplay",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
-  },
-  {
-    "track": "Went Legit",
-    "artist": "G Herbo, Southside",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/2I9517MJ7979KTtFjbDo5E"
-  },
-  {
-    "track": "Frecuencia",
-    "artist": "Los Dareyes De La Sierra",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/56bPsRfOKla3bGGmVz1uk4"
-  },
-  {
-    "track": "Hard Fought Hallelujah (with Jelly Roll)",
-    "artist": "Brandon Lake, Jelly Roll",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4"
-  },
-  {
-    "track": "Ring Ring Ring",
-    "artist": "Tyler, The Creator",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt"
-  },
-  {
-    "track": "Heart of Stone",
-    "artist": "Jelly Roll",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/1bXKpjbalq0If54LBffE0i"
-  },
-  {
-    "track": "TN",
-    "artist": "Morgan Wallen",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/5wrvpATTwLAdxI9xNtezNM"
-  },
-  {
-    "track": "Typa",
-    "artist": "GloRilla",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1"
-  },
-  {
-    "track": "just say dat",
-    "artist": "Gunna",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/5sVrb7EJxs2LriI1m3KuX2"
-  },
-  {
-    "track": "cliché",
-    "artist": "mgk",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/0dTdxwwH6FYsJL0l3TgSe2"
-  },
-  {
-    "track": "Let Down",
-    "artist": "Radiohead",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
-  },
-  {
-    "track": "TU SANCHO",
-    "artist": "Fuerza Regida",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/6eLQXa6uk2EW8drsiKbABZ"
-  },
-  {
-    "track": "wgft (feat. Burna Boy)",
-    "artist": "Gunna, Burna Boy",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe"
-  },
-  {
-    "track": "Bloodline (with Jelly Roll)",
-    "artist": "Alex Warren, Jelly Roll",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
-  },
-  {
-    "track": "Is It a Crime",
-    "artist": "Mariah the Scientist, Kali Uchis",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/1jTe5liUdnRjbie1luBi6J"
-  },
-  {
-    "track": "forever be mine (feat. Wizkid)",
-    "artist": "Gunna, Wizkid",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj"
-  },
-  {
-    "track": "Somebody",
-    "artist": "Latto",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO"
-  },
-  {
-    "track": "What Kinda Man",
-    "artist": "Parker McCollum",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/2K6T1iKa7coghsISspjPv8"
-  },
-  {
-    "track": "Country Song Came On",
-    "artist": "Luke Bryan",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/0LyGv85e5XkkSKBxNOopVE"
-  },
-  {
-    "track": "Napoleon",
-    "artist": "$uicideboy$",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/328p9YLeNTjWUnL6qCXqmv"
+    "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
   },
   {
     "track": "Golden",
@@ -714,11 +770,11 @@
     "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
   },
   {
-    "track": "What I Want (feat. Tate McRae)",
-    "artist": "Morgan Wallen, Tate McRae",
+    "track": "Manchild",
+    "artist": "Sabrina Carpenter",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/48NthgcgfoRrWT8LtgW28A"
+    "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
   },
   {
     "track": "Your Idol",
@@ -735,32 +791,18 @@
     "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
   },
   {
-    "track": "Love Me Not",
-    "artist": "Ravyn Lenae",
+    "track": "Tears",
+    "artist": "Sabrina Carpenter",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+    "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
   },
   {
-    "track": "Lose Control",
-    "artist": "Teddy Swims",
+    "track": "What I Want (feat. Tate McRae)",
+    "artist": "Morgan Wallen, Tate McRae",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
-  },
-  {
-    "track": "DAISIES",
-    "artist": "Justin Bieber",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
-  },
-  {
-    "track": "Just In Case",
-    "artist": "Morgan Wallen",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/02Ya2Q08bBKFqUJvjmyRXK"
+    "url": "https://open.spotify.com/track/48NthgcgfoRrWT8LtgW28A"
   },
   {
     "track": "How It’s Done",
@@ -770,60 +812,32 @@
     "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
   },
   {
+    "track": "Love Me Not",
+    "artist": "Ravyn Lenae",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+  },
+  {
+    "track": "DAISIES",
+    "artist": "Justin Bieber",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+  },
+  {
+    "track": "Lose Control",
+    "artist": "Teddy Swims",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+  },
+  {
     "track": "Die With A Smile",
     "artist": "Lady Gaga, Bruno Mars",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
     "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
-  },
-  {
-    "track": "Good News",
-    "artist": "Shaboozey",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
-  },
-  {
-    "track": "A Bar Song (Tipsy)",
-    "artist": "Shaboozey",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
-  },
-  {
-    "track": "Manchild",
-    "artist": "Sabrina Carpenter",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
-  },
-  {
-    "track": "MUTT",
-    "artist": "Leon Thomas",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
-  },
-  {
-    "track": "I'm The Problem",
-    "artist": "Morgan Wallen",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
-  },
-  {
-    "track": "Beautiful Things",
-    "artist": "Benson Boone",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
-  },
-  {
-    "track": "Pink Pony Club",
-    "artist": "Chappell Roan",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
   },
   {
     "track": "I Got Better",
@@ -833,6 +847,13 @@
     "url": "https://open.spotify.com/track/4GBNnoGf1FgsPtsgghZ381"
   },
   {
+    "track": "MUTT",
+    "artist": "Leon Thomas",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
+  },
+  {
     "track": "What It Sounds Like",
     "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
@@ -840,46 +861,32 @@
     "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
   },
   {
-    "track": "luther (with sza)",
-    "artist": "Kendrick Lamar, SZA",
+    "track": "A Bar Song (Tipsy)",
+    "artist": "Shaboozey",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
+    "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
   },
   {
-    "track": "BIRDS OF A FEATHER",
-    "artist": "Billie Eilish",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-  },
-  {
-    "track": "Free",
-    "artist": "Rumi, Jinu, EJAE, Andrew Choi, KPop Demon Hunters Cast",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
-  },
-  {
-    "track": "I Had Some Help (Feat. Morgan Wallen)",
-    "artist": "Post Malone, Morgan Wallen",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
-  },
-  {
-    "track": "Takedown",
-    "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
-  },
-  {
-    "track": "Sorry I'm Here For Someone Else",
+    "track": "Beautiful Things",
     "artist": "Benson Boone",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
+    "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+  },
+  {
+    "track": "Just In Case",
+    "artist": "Morgan Wallen",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/02Ya2Q08bBKFqUJvjmyRXK"
+  },
+  {
+    "track": "Good News",
+    "artist": "Shaboozey",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
   },
   {
     "track": "undressed",
@@ -889,25 +896,32 @@
     "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
   },
   {
-    "track": "The Subway",
+    "track": "Takedown",
+    "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
+  },
+  {
+    "track": "I'm The Problem",
+    "artist": "Morgan Wallen",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
+  },
+  {
+    "track": "Pink Pony Club",
     "artist": "Chappell Roan",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+    "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
   },
   {
-    "track": "YUKON",
-    "artist": "Justin Bieber",
+    "track": "Free",
+    "artist": "Rumi, Jinu, EJAE, Andrew Choi, KPop Demon Hunters Cast",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
-  },
-  {
-    "track": "Mystical Magical",
-    "artist": "Benson Boone",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
+    "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
   },
   {
     "track": "back to friends",
@@ -917,11 +931,46 @@
     "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
   },
   {
-    "track": "It Depends (feat. Bryson Tiller)",
-    "artist": "Chris Brown, Bryson Tiller",
+    "track": "luther (with sza)",
+    "artist": "Kendrick Lamar, SZA",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH"
+    "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
+  },
+  {
+    "track": "SOMEBODY LOVES ME PT. 2",
+    "artist": "PARTYNEXTDOOR, Drake, Cash Cobain",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/2aTf0R0TQCJJKcb0ipszD2"
+  },
+  {
+    "track": "Nobody’s Son",
+    "artist": "Sabrina Carpenter",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/4SRShYMtFIGgnOU7iBicMH"
+  },
+  {
+    "track": "Mystical Magical",
+    "artist": "Benson Boone",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
+  },
+  {
+    "track": "When Did You Get Hot?",
+    "artist": "Sabrina Carpenter",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl"
+  },
+  {
+    "track": "Happen To Me",
+    "artist": "Russell Dickerson",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/64KV9vjChfN2w9vA4j7A2K"
   },
   {
     "track": "All The Way (feat. Bailey Zimmerman)",
@@ -931,11 +980,11 @@
     "url": "https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP"
   },
   {
-    "track": "Backup Plan (feat. Luke Combs)",
-    "artist": "Bailey Zimmerman, Luke Combs",
+    "track": "YUKON",
+    "artist": "Justin Bieber",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
+    "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
   },
   {
     "track": "Folded",
@@ -952,46 +1001,53 @@
     "url": "https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc"
   },
   {
-    "track": "Blue Strips",
-    "artist": "Jessie Murph",
+    "track": "Sorry I'm Here For Someone Else",
+    "artist": "Benson Boone",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y"
+    "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
   },
   {
-    "track": "30 For 30 (with Kendrick Lamar)",
-    "artist": "SZA, Kendrick Lamar",
+    "track": "Man I Need",
+    "artist": "Olivia Dean",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
+    "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
   },
   {
-    "track": "After All The Bars Are Closed",
-    "artist": "Thomas Rhett",
+    "track": "It Depends (feat. Bryson Tiller)",
+    "artist": "Chris Brown, Bryson Tiller",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
+    "url": "https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH"
   },
   {
-    "track": "Happen To Me",
-    "artist": "Russell Dickerson",
+    "track": "House Tour",
+    "artist": "Sabrina Carpenter",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/64KV9vjChfN2w9vA4j7A2K"
+    "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
   },
   {
-    "track": "Worst Way",
-    "artist": "Riley Green",
+    "track": "The Dead Dance",
+    "artist": "Lady Gaga",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/4u2pk0zATUkEeMtuuMtu46"
+    "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
   },
   {
-    "track": "APT.",
-    "artist": "ROSÉ, Bruno Mars",
+    "track": "Go Go Juice",
+    "artist": "Sabrina Carpenter",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    "url": "https://open.spotify.com/track/1qyw5wSUkEvH8DtaCdx7Lg"
+  },
+  {
+    "track": "My Man on Willpower",
+    "artist": "Sabrina Carpenter",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/3EMfeKtNK4q4k3sVjwg5Yy"
   },
   {
     "track": "Bar None",
@@ -1001,32 +1057,18 @@
     "url": "https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP"
   },
   {
-    "track": "Love Somebody",
-    "artist": "Morgan Wallen",
+    "track": "Sugar Talking",
+    "artist": "Sabrina Carpenter",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
+    "url": "https://open.spotify.com/track/5B3GZOZYXNzWpUXQC42hxZ"
   },
   {
-    "track": "What Did I Miss?",
-    "artist": "Drake",
+    "track": "Worst Way",
+    "artist": "Riley Green",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
-  },
-  {
-    "track": "NOKIA",
-    "artist": "Drake",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
-  },
-  {
-    "track": "Back in the Saddle",
-    "artist": "Luke Combs",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
+    "url": "https://open.spotify.com/track/4u2pk0zATUkEeMtuuMtu46"
   },
   {
     "track": "Bottle Rockets (feat. Hootie & The Blowfish)",
@@ -1036,11 +1078,11 @@
     "url": "https://open.spotify.com/track/5Xl87hTgoBbSnEXKNse77Q"
   },
   {
-    "track": "Sugar On My Tongue",
-    "artist": "Tyler, The Creator",
+    "track": "Goodbye",
+    "artist": "Sabrina Carpenter",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
+    "url": "https://open.spotify.com/track/4tVVmShMF2PYdLqcejrsy2"
   },
   {
     "track": "No Broke Boys",
@@ -1050,151 +1092,60 @@
     "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
   },
   {
-    "track": "6 Months Later",
-    "artist": "Megan Moroney",
+    "track": "Blue Strips",
+    "artist": "Jessie Murph",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom"
+    "url": "https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y"
   },
   {
-    "track": "Miami (feat. Lil Wayne & Rick Ross)",
-    "artist": "Morgan Wallen, Lil Wayne, Rick Ross",
+    "track": "Jealous Type",
+    "artist": "Doja Cat",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/4vsarEetbprJa5Z2ZJ4RL7"
+    "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
   },
   {
-    "track": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
-    "artist": "TWICE",
+    "track": "Backup Plan (feat. Luke Combs)",
+    "artist": "Bailey Zimmerman, Luke Combs",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
+    "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
   },
   {
-    "track": "Somewhere Over Laredo",
-    "artist": "Lainey Wilson",
+    "track": "After All The Bars Are Closed",
+    "artist": "Thomas Rhett",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU"
+    "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
   },
   {
-    "track": "20 Cigarettes",
-    "artist": "Morgan Wallen",
+    "track": "12 to 12",
+    "artist": "sombr",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/2fKPqAXWZmXcWiEVxqIuFD"
+    "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
   },
   {
-    "track": "House Again",
-    "artist": "Hudson Westbrook",
+    "track": "Back in the Saddle",
+    "artist": "Luke Combs",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/16MeIVoFWTq2E0r6DwIek5"
+    "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
   },
   {
-    "track": "Strategy",
-    "artist": "TWICE",
+    "track": "Never Getting Laid",
+    "artist": "Sabrina Carpenter",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/6Q3lFQgpvhA9VApFKLFZtZ"
+    "url": "https://open.spotify.com/track/1PdUyYYw9sGU0yhLrpeHKt"
   },
   {
-    "track": "Amen",
-    "artist": "Shaboozey, Jelly Roll",
+    "track": "Sugar On My Tongue",
+    "artist": "Tyler, The Creator",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
-  },
-  {
-    "track": "WILDFLOWER",
-    "artist": "Billie Eilish",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
-  },
-  {
-    "track": "Outside",
-    "artist": "Cardi B",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u"
-  },
-  {
-    "track": "Hell At Night (feat. Ella Langley)",
-    "artist": "BigXthaPlug, Ella Langley",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/0U1nO2frLx8w2dIsfvlP1d"
-  },
-  {
-    "track": "YOUR WAY'S BETTER",
-    "artist": "Forrest Frank",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/4qrbjoNP9NZwe79Rg9IlFU"
-  },
-  {
-    "track": "Just Keep Watching (From F1® The Movie)",
-    "artist": "Tate McRae, F1 The Album",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
-  },
-  {
-    "track": "So Far So Fake",
-    "artist": "Pierce The Veil",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI"
-  },
-  {
-    "track": "Shake It To The Max (FLY) - Remix",
-    "artist": "MOLIY, Silent Addy, Skillibeng, Shenseea",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
-  },
-  {
-    "track": "Eternity",
-    "artist": "Alex Warren",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
-  },
-  {
-    "track": "I Ain't Comin' Back (feat. Post Malone)",
-    "artist": "Morgan Wallen, Post Malone",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9"
-  },
-  {
-    "track": "Better Me For You (Brown Eyes)",
-    "artist": "Max McNown",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/4Iu73sdCNxZXZUIyClMoPZ"
-  },
-  {
-    "track": "Marlboro Rojo",
-    "artist": "Fuerza Regida",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/3hpm0fTeSqlhJbnqAgaLZs"
-  },
-  {
-    "track": "Imaginary Playerz",
-    "artist": "Cardi B",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt"
-  },
-  {
-    "track": "party 4 u",
-    "artist": "Charli xcx",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE"
+    "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
   },
   {
     "track": "Gabriela",
@@ -1204,46 +1155,18 @@
     "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
   },
   {
-    "track": "Which One (feat. Central Cee)",
-    "artist": "Drake, Central Cee",
+    "track": "The Subway",
+    "artist": "Chappell Roan",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
+    "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
   },
   {
-    "track": "JUMP",
-    "artist": "BLACKPINK",
+    "track": "Hell At Night (feat. Ella Langley)",
+    "artist": "BigXthaPlug, Ella Langley",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
-  },
-  {
-    "track": "Superman",
-    "artist": "Morgan Wallen",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/3JlQPeTJDdxR6yYfus8trX"
-  },
-  {
-    "track": "RATHER LIE (with The Weeknd)",
-    "artist": "Playboi Carti, The Weeknd",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn"
-  },
-  {
-    "track": "Last One To Know",
-    "artist": "Gavin Adcock",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/7Eb9i3xmiLuY5MiY6AhzzL"
-  },
-  {
-    "track": "Don’t Mind If I Do (ft. Ella Langley)",
-    "artist": "Riley Green, Ella Langley",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/6yIaRllz0lCXuISYsqyCNH"
+    "url": "https://open.spotify.com/track/0U1nO2frLx8w2dIsfvlP1d"
   },
   {
     "track": "Revolving door",
@@ -1253,95 +1176,60 @@
     "url": "https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC"
   },
   {
-    "track": "Nice To Meet You",
-    "artist": "Myles Smith",
+    "track": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+    "artist": "TWICE",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
+    "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
   },
   {
-    "track": "Sparks",
-    "artist": "Coldplay",
+    "track": "Strategy",
+    "artist": "TWICE",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
+    "url": "https://open.spotify.com/track/6Q3lFQgpvhA9VApFKLFZtZ"
   },
   {
-    "track": "Went Legit",
-    "artist": "G Herbo, Southside",
+    "track": "House Again",
+    "artist": "Hudson Westbrook",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/2I9517MJ7979KTtFjbDo5E"
+    "url": "https://open.spotify.com/track/16MeIVoFWTq2E0r6DwIek5"
   },
   {
-    "track": "Frecuencia",
-    "artist": "Los Dareyes De La Sierra",
+    "track": "Somewhere Over Laredo",
+    "artist": "Lainey Wilson",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/56bPsRfOKla3bGGmVz1uk4"
+    "url": "https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU"
   },
   {
-    "track": "Hard Fought Hallelujah (with Jelly Roll)",
-    "artist": "Brandon Lake, Jelly Roll",
+    "track": "We Almost Broke Up Again Last Night",
+    "artist": "Sabrina Carpenter",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4"
+    "url": "https://open.spotify.com/track/6wkYQMrFfb0huLB5Qn19Iv"
   },
   {
-    "track": "Ring Ring Ring",
-    "artist": "Tyler, The Creator",
+    "track": "SPEED DEMON",
+    "artist": "Justin Bieber",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt"
+    "url": "https://open.spotify.com/track/4YmS7BALpAU0h4EAF4fYuh"
   },
   {
-    "track": "Heart of Stone",
-    "artist": "Jelly Roll",
+    "track": "Just Keep Watching (From F1® The Movie)",
+    "artist": "Tate McRae, F1 The Album",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/1bXKpjbalq0If54LBffE0i"
+    "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
   },
   {
-    "track": "TN",
-    "artist": "Morgan Wallen",
+    "track": "6 Months Later",
+    "artist": "Megan Moroney",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/5wrvpATTwLAdxI9xNtezNM"
-  },
-  {
-    "track": "Typa",
-    "artist": "GloRilla",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1"
-  },
-  {
-    "track": "just say dat",
-    "artist": "Gunna",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/5sVrb7EJxs2LriI1m3KuX2"
-  },
-  {
-    "track": "cliché",
-    "artist": "mgk",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/0dTdxwwH6FYsJL0l3TgSe2"
-  },
-  {
-    "track": "Let Down",
-    "artist": "Radiohead",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
-  },
-  {
-    "track": "TU SANCHO",
-    "artist": "Fuerza Regida",
-    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
-    "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/6eLQXa6uk2EW8drsiKbABZ"
+    "url": "https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom"
   },
   {
     "track": "wgft (feat. Burna Boy)",
@@ -1351,11 +1239,109 @@
     "url": "https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe"
   },
   {
-    "track": "Bloodline (with Jelly Roll)",
-    "artist": "Alex Warren, Jelly Roll",
+    "track": "WILDFLOWER",
+    "artist": "Billie Eilish",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
+    "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+  },
+  {
+    "track": "What Did I Miss?",
+    "artist": "Drake",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
+  },
+  {
+    "track": "Amen",
+    "artist": "Shaboozey, Jelly Roll",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
+  },
+  {
+    "track": "Don’t Worry I’ll Make You Worry",
+    "artist": "Sabrina Carpenter",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/21IVPfi81m6ywNgOvqTj1i"
+  },
+  {
+    "track": "Eternity",
+    "artist": "Alex Warren",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
+  },
+  {
+    "track": "Better Me For You (Brown Eyes)",
+    "artist": "Max McNown",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/4Iu73sdCNxZXZUIyClMoPZ"
+  },
+  {
+    "track": "YOUR WAY'S BETTER",
+    "artist": "Forrest Frank",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/4qrbjoNP9NZwe79Rg9IlFU"
+  },
+  {
+    "track": "Sienna",
+    "artist": "The Marías",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
+  },
+  {
+    "track": "Heart of Stone",
+    "artist": "Jelly Roll",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/1bXKpjbalq0If54LBffE0i"
+  },
+  {
+    "track": "Tiramisu",
+    "artist": "Don Toliver",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee"
+  },
+  {
+    "track": "Don’t Mind If I Do (ft. Ella Langley)",
+    "artist": "Riley Green, Ella Langley",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/6yIaRllz0lCXuISYsqyCNH"
+  },
+  {
+    "track": "Nice To Meet You",
+    "artist": "Myles Smith",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
+  },
+  {
+    "track": "Last One To Know",
+    "artist": "Gavin Adcock",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/7Eb9i3xmiLuY5MiY6AhzzL"
+  },
+  {
+    "track": "Sparks",
+    "artist": "Coldplay",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
+  },
+  {
+    "track": "Marlboro Rojo",
+    "artist": "Fuerza Regida",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/3hpm0fTeSqlhJbnqAgaLZs"
   },
   {
     "track": "Is It a Crime",
@@ -1365,39 +1351,109 @@
     "url": "https://open.spotify.com/track/1jTe5liUdnRjbie1luBi6J"
   },
   {
-    "track": "forever be mine (feat. Wizkid)",
-    "artist": "Gunna, Wizkid",
+    "track": "party 4 u",
+    "artist": "Charli xcx",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj"
+    "url": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE"
   },
   {
-    "track": "Somebody",
-    "artist": "Latto",
+    "track": "20 Cigarettes",
+    "artist": "Morgan Wallen",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO"
+    "url": "https://open.spotify.com/track/2fKPqAXWZmXcWiEVxqIuFD"
   },
   {
-    "track": "What Kinda Man",
-    "artist": "Parker McCollum",
+    "track": "LOVE SONG",
+    "artist": "Justin Bieber",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/2K6T1iKa7coghsISspjPv8"
+    "url": "https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ"
   },
   {
-    "track": "Country Song Came On",
-    "artist": "Luke Bryan",
+    "track": "Shake It To The Max (FLY) - Remix",
+    "artist": "MOLIY, Silent Addy, Skillibeng, Shenseea",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/0LyGv85e5XkkSKBxNOopVE"
+    "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
   },
   {
-    "track": "Napoleon",
-    "artist": "$uicideboy$",
+    "track": "Typa",
+    "artist": "GloRilla",
     "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
     "playlistName": "Billboard Hot 100",
-    "url": "https://open.spotify.com/track/328p9YLeNTjWUnL6qCXqmv"
+    "url": "https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1"
+  },
+  {
+    "track": "She Ready",
+    "artist": "Key Glock",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/1LzZQqP7rgemZw2JCZvo4N"
+  },
+  {
+    "track": "JUMP",
+    "artist": "BLACKPINK",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
+  },
+  {
+    "track": "Frecuencia",
+    "artist": "Los Dareyes De La Sierra",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/56bPsRfOKla3bGGmVz1uk4"
+  },
+  {
+    "track": "Good Times & Tan Lines",
+    "artist": "Zach Top",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/5ZBxXBh0h4QuwXb3tNj91d"
+  },
+  {
+    "track": "Let Down",
+    "artist": "Radiohead",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
+  },
+  {
+    "track": "Outside",
+    "artist": "Cardi B",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u"
+  },
+  {
+    "track": "I Ain't Comin' Back (feat. Post Malone)",
+    "artist": "Morgan Wallen, Post Malone",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9"
+  },
+  {
+    "track": "Miami (feat. Lil Wayne & Rick Ross)",
+    "artist": "Morgan Wallen, Lil Wayne, Rick Ross",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/4vsarEetbprJa5Z2ZJ4RL7"
+  },
+  {
+    "track": "Which One (feat. Central Cee)",
+    "artist": "Drake, Central Cee",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
+  },
+  {
+    "track": "So Far So Fake",
+    "artist": "Pierce The Veil",
+    "playlist": "6UeSakyzhiEt4NB3UAd6NQ",
+    "playlistName": "Billboard Hot 100",
+    "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI"
   },
   {
     "track": "INDUSTRY",
